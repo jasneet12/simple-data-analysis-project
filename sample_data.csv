@@ -1,5 +1,5 @@
-Name, Age, City
-John, 28, London
-Alice, , New York
-Bob, 25, 
-John, 28, London
+name,department,salary
+John,IT,50000
+Alice,HR,60000
+Bob,Marketing,55000
+John,IT,50000
